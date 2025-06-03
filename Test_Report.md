@@ -28,8 +28,11 @@
 | Accessibility    |No keyboard focus management: Focus isn't properly managed after adding/deleting notes                          |
 
 *GitHub Issues Filed: [List links to the 3 required issues, with labels]*
+-------
 **Titles:** Issue: Missing input validation for whitespace-only strings*
+
 **Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/1]*
+
 **Labels:** functional*
 
 
