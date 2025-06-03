@@ -29,7 +29,7 @@
 
 *GitHub Issues Filed: [List links to the 3 required issues, with labels]*
 
-*Links:*https://github.com/Nompie1993/SoftwareTesting/issues/1*
+*Links:Issue: Missing input validation for whitespace-only strings [https://github.com/Nompie1993/SoftwareTesting/issues/1]
 
 *Titles: Issue: Missing input validation for whitespace-only strings*
 
