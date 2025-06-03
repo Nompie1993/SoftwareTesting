@@ -29,9 +29,26 @@
 
 *GitHub Issues Filed: [List links to the 3 required issues, with labels]*
 
-https://github.com/Nompie1993/SoftwareTesting/issues/3
-https://github.com/Nompie1993/SoftwareTesting/issues/2
-https://github.com/Nompie1993/SoftwareTesting/issues/1
+Links:https://github.com/Nompie1993/SoftwareTesting/issues/1
+
+Titles: Issue: Missing input validation for whitespace-only strings
+
+Labels: functional
+
+
+Links: https://github.com/Nompie1993/SoftwareTesting/issues/2
+
+Titles: Issue: No duplicate note prevention #2
+
+Labels: functional
+
+
+Links:https://github.com/Nompie1993/SoftwareTesting/issues/3
+
+Titles: Issue: Missing maximum length validation #3
+
+Labels: functional
+
 
 ---
 
