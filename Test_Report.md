@@ -28,26 +28,26 @@
 | Accessibility    |No keyboard focus management: Focus isn't properly managed after adding/deleting notes                          |
 
 *GitHub Issues Filed: [List links to the 3 required issues, with labels]*
-
-*Links:Issue: Missing input validation for whitespace-only strings [https://github.com/Nompie1993/SoftwareTesting/issues/1]
-
-*Titles: Issue: Missing input validation for whitespace-only strings*
-
-*Labels: functional*
+**Titles:** Issue: Missing input validation for whitespace-only strings*
+**Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/1]*
+**Labels:** functional*
 
 
-*Links: https://github.com/Nompie1993/SoftwareTesting/issues/2*
+---------------------------------------------------------------------------------------------------------------------------------
 
-*Titles: Issue: No duplicate note prevention #2*
+**Titles:** Issue: No duplicate note prevention #2*
 
-*Labels: functional
+**Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/2]*
+
+**Labels:** functional*
 
 
-Links:https://github.com/Nompie1993/SoftwareTesting/issues/3
+------------------------------------------------------------------------------------------------------------------------
 
-Titles: Issue: Missing maximum length validation #3
+**Titles:** Issue: Missing maximum length validation #3*
+**Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/3]*
 
-Labels: functional
+**Labels:** functional*
 
 
 ---
