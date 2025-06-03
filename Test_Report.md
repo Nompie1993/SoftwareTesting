@@ -58,18 +58,16 @@
 ## 💬 Reflection
 
 ### 1. What did you learn from testing this app?
->Basic Functionality: The function successfully adds a new note to an array of notes when both title and content are provided.
->Validation Requirements: The function requires both title and content to be non-empty strings
->Immutability: The function doesn't mutate the original notes array but instead returns a new array with the added note (pure function behavior)
->Return Value: The function always returns an array - either:
-A new array with the added note when inputs are valid, or
-An unchanged array when validation fails
+> Testing one feature at a time (e.g., "save note," "delete note") isolates failures.
+> Keyboard Navigation: No support for keyboard-only use (e.g., pressing Enter to save).
+> Data Persistence: Notes are lost on page refresh
+> No Character Limits: Input fields accept unlimited text, which could cause layout issues with extremely long content
 
 ### 2. Which part of the app had the most bugs or problems?
 > Based on the test cases, the validation logic (for title and content) and immutability aspects were likely the most problematic parts of the saveNote function
 
 ### 3. What testing strategy worked best for you?
->  Integration 
+>  Unit Testing, Though i still need more practice.
 
 ### 4. What was challenging during this lab?
 >  Setting up Jest and understanding how it works is still a bit tricky for me..
