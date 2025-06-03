@@ -21,13 +21,17 @@
 
 | Type             | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| Unit             | [e.g., Notes save even when title or content is empty]                      |
-| Integration      | [e.g., Note text does not appear after clicking "Save Note"]                |
-| System           | [e.g., Edit function deletes note without repopulating input fields]        |
-| UI / UX          | [e.g., No feedback or confirmation after saving or deleting a note]         |
-| Accessibility    | [e.g., Inputs have no labels for screen readers]                            |
+| Unit             |Tests one function in isolation ,The app only checks for empty inputs          |
+| Integration      |Tests multiple components together.[e.g.	Does clicking "Save" update the UI?]               |
+| System           | Edit an existing note,	N	Original note is deleted before saving|
+| UI / UX          | No message shown when there are no notes (just blank space)      |
+| Accessibility    |No keyboard focus management: Focus isn't properly managed after adding/deleting notes                          |
 
 *GitHub Issues Filed: [List links to the 3 required issues, with labels]*
+
+https://github.com/Nompie1993/SoftwareTesting/issues/3
+https://github.com/Nompie1993/SoftwareTesting/issues/2
+https://github.com/Nompie1993/SoftwareTesting/issues/1
 
 ---
 
@@ -45,7 +49,7 @@ An unchanged array when validation fails
 > Based on the test cases, the validation logic (for title and content) and immutability aspects were likely the most problematic parts of the saveNote function
 
 ### 3. What testing strategy worked best for you?
-> [e.g., Starting with exploratory clicks helped me find visible bugs before writing code-level tests.]
+>  Integration 
 
 ### 4. What was challenging during this lab?
 >  Setting up Jest and understanding how it works is still a bit tricky for me..
