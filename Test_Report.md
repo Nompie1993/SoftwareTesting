@@ -41,10 +41,10 @@
 
 **Labels:** functional*
 
-
 ------------------------------------------------------------------------------------------------------------------------
 
 **Titles:** Issue: Missing maximum length validation #3*
+
 **Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/3]*
 
 **Labels:** functional*
