@@ -31,7 +31,7 @@
 -------
 **Titles:** Issue: Missing input validation for whitespace-only strings*
 
-**Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/1]*
+**Links:** https://github.com/Nompie1993/SoftwareTesting/issues/1*
 
 **Labels:** functional*
 
@@ -40,7 +40,7 @@
 
 **Titles:** Issue: No duplicate note prevention #2*
 
-**Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/2]*
+**Links:** https://github.com/Nompie1993/SoftwareTesting/issues/2*
 
 **Labels:** functional*
 
@@ -48,7 +48,7 @@
 
 **Titles:** Issue: Missing maximum length validation #3*
 
-**Links:** [https://github.com/Nompie1993/SoftwareTesting/issues/3]*
+**Links:** https://github.com/Nompie1993/SoftwareTesting/issues/3*
 
 **Labels:** functional*
 
