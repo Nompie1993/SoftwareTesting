@@ -59,8 +59,11 @@
 
 ### 1. What did you learn from testing this app?
 > Testing one feature at a time (e.g., "save note," "delete note") isolates failures.
+
 > Keyboard Navigation: No support for keyboard-only use (e.g., pressing Enter to save).
+
 > Data Persistence: Notes are lost on page refresh
+
 > No Character Limits: Input fields accept unlimited text, which could cause layout issues with extremely long content
 
 ### 2. Which part of the app had the most bugs or problems?
@@ -76,6 +79,6 @@
 
 ## ✅ Checklist
 
-- [ ] I wrote and ran unit, integration, and system tests using Jest  
+- [ ] I wrote and ran unit testing using Jest  
 - [ ] I filed 3 functional GitHub Issues with clear descriptions  
 - [ ] I completed this Test Report and reflected on the process  
