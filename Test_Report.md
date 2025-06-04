@@ -11,9 +11,22 @@
 
 | Test Type        | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| **Unit Test**     | Tested the `saveNote()` function for correct behavior and input validation. |
-| **Integration Test** | Verified that saving a note updates the UI as expected.                     |
-| **System Test**   | Simulated full note lifecycle: create → edit → delete.                      |
+| **Unit Test**    | saveNote() - Creates and stores a new note
+                   |Verifies it creates a note object with correct properties                     |
+
+                   |Checks it adds the note to the notes array                                     |
+
+                    |Validates it prevents empty notes (title or content)                          |
+
+                   | it clears the input fields after saving                                       |
+| **Integration Test** | 1. Create a note. 2. Click "Edit." 3. Note disappears before changes are        saved                    |
+| **System Test**   | Create a Note
+
+                     Enter a title and content.
+
+                    Click "Save Note."
+
+                    Verify the note appears in the list.                     |
 
 ---
 
@@ -21,8 +34,8 @@
 
 | Type             | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| Unit             |Tests one function in isolation ,The app only checks for empty inputs          |
-| Integration      |Tests multiple components together.[e.g.	Does clicking "Save" update the UI?]               |
+| Unit             |No Input Clearing: The input fields aren't cleared after saving a new note.       |
+| Integration      |1. Create a note. 2. Click "Edit." 3. Note disappears before changes are saved               |
 | System           | Edit an existing note,	N	Original note is deleted before saving|
 | UI / UX          | No message shown when there are no notes (just blank space)      |
 | Accessibility    |No keyboard focus management: Focus isn't properly managed after adding/deleting notes                          |
