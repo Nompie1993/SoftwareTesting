@@ -12,22 +12,22 @@
 | Test Type        | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **Unit Test**    | saveNote() - Creates and stores a new note
-|---------------------------------------------------------------------------------------------------|
-                   |Verifies it creates a note object with correct properties                     |
+|-------------------|--------------------------------------------------------------------------------|
+|                   |Verifies it creates a note object with correct properties                     |
 
-                   |Checks it adds the note to the notes array                                     |
+|                   |Checks it adds the note to the notes array                                     |
 
-                    |Validates it prevents empty notes (title or content)                          |
+|                    |Validates it prevents empty notes (title or content)                          |
 
-                   | it clears the input fields after saving                                       |
-| **Integration Test** | 1. Create a note. 2. Click "Edit." 3. Note disappears before changes are        saved                    |
-| **System Test**   | Create a Note
+|                   | it clears the input fields after saving                                       |
+| **Integration Test** | 1. Create a note. 2. Click "Edit." 3. Note disappears before changes are saved                    |
+| **System Test**   | Create a Note |
 
-                     Enter a title and content.
+|                    | Enter a title and content.|
 
-                    Click "Save Note."
+|                   | Click "Save Note."
 
-                    Verify the note appears in the list.                     |
+ |                  | Verify the note appears in the list.                     |
 
 ---
 
