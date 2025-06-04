@@ -12,6 +12,7 @@
 | Test Type        | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **Unit Test**    | saveNote() - Creates and stores a new note
+|---------------------------------------------------------------------------------------------------|
                    |Verifies it creates a note object with correct properties                     |
 
                    |Checks it adds the note to the notes array                                     |
